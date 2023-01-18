@@ -1,0 +1,180 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "sampleLevel.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#dirtTile": {
+            "scaleInDock": 1
+        },
+        "#grassTile": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#tiles": {
+            "dynamicWrapping": true
+        },
+        "Grass_Tile.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiny_Spirits_Map/coinCollectible.tsx": {
+            "scaleInDock": 1
+        },
+        "Tiny_Spirits_Map/dirtTile.tsx": {
+            "scaleInDock": 1
+        },
+        "Tiny_Spirits_Map/grassTile.tsx": {
+            "scaleInDock": 1
+        },
+        "Tiny_Spirits_Map/heartCollectible.tsx": {
+            "scaleInDock": 1
+        },
+        "Tiny_Spirits_Map/monsterSpawn.tsx": {
+            "scaleInDock": 1
+        },
+        "Tiny_Spirits_Map/playerSpawn.tsx": {
+            "scaleInDock": 1
+        },
+        "coinCollectible.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dirtTile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "grassTile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "heartCollectible.tsx": {
+            "scaleInDock": 1
+        },
+        "map..json": {
+            "scale": 1.1578125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 400.7557354925776,
+                "y": 320.00000000000006
+            }
+        },
+        "map..json#dirtTile": {
+            "scaleInDock": 1
+        },
+        "map..json#grassTile": {
+            "scaleInDock": 1
+        },
+        "map.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 415,
+                "y": 254.5
+            }
+        },
+        "map.tmx#dirtTile": {
+            "scaleInDock": 1
+        },
+        "map.tmx#grassTile": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 16
+        },
+        "map2.tmx": {
+            "expandedGroupLayers": [
+                19
+            ],
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 403,
+                "y": 308.5
+            }
+        },
+        "map2.tmx#dirtTile": {
+            "scaleInDock": 1
+        },
+        "map2.tmx#grassTile": {
+            "scaleInDock": 1
+        },
+        "map3.tmx": {
+            "expandedGroupLayers": [
+                19
+            ],
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 426,
+                "y": 328.5
+            }
+        },
+        "mapTiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "monsterSpawn.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "playerSpawn.tsx": {
+            "scaleInDock": 1
+        },
+        "sampleLevel.tmx": {
+            "scale": 0.8371875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 400.1493094438223,
+                "y": 341.02276969018294
+            }
+        }
+    },
+    "last.exportedFilePath": "D:/darya/Downloads/Tiny_Spirits_Map",
+    "last.externalTilesetPath": "D:/darya/Downloads/Tiny_Spirits_Map",
+    "last.imagePath": "D:/darya/Downloads/Tiny_Spirits_Map",
+    "last.worldFilePath": "D:/darya/Downloads/Tiny_Spirits_Map",
+    "loadedWorlds": [
+        "D:/darya/Downloads/Tiny_Spirits_Map/map.world"
+    ],
+    "map.height": 600,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 1,
+    "map.tileWidth": 1,
+    "map.width": 800,
+    "openFiles": [
+        "map.tmx",
+        "sampleLevel.tmx"
+    ],
+    "project": "Tiny_Spirits.tiled-project",
+    "recentFiles": [
+        "sampleLevel.tmx",
+        "monsterSpawn.tsx",
+        "map2.tmx",
+        "map.tmx",
+        "coinCollectible.tsx",
+        "dirtTile.tsx",
+        "grassTile.tsx",
+        "map..json",
+        "Grass_Tile.tsx",
+        "mapTiles.tsx"
+    ],
+    "tileset.embedInMap": false,
+    "tileset.lastUsedFilter": "All Files (*)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.type": 0
+}
