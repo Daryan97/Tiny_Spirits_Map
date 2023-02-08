@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "sampleLevel.tmx",
+    "activeFile": "map3.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -114,7 +114,7 @@
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 426,
+                "x": 425,
                 "y": 328.5
             }
         },
@@ -154,14 +154,16 @@
     "map.width": 800,
     "openFiles": [
         "map.tmx",
-        "sampleLevel.tmx"
+        "map2.tmx",
+        "map3.tmx"
     ],
     "project": "Tiny_Spirits.tiled-project",
     "recentFiles": [
+        "map.tmx",
+        "map2.tmx",
+        "map3.tmx",
         "sampleLevel.tmx",
         "monsterSpawn.tsx",
-        "map2.tmx",
-        "map.tmx",
         "coinCollectible.tsx",
         "dirtTile.tsx",
         "grassTile.tsx",
